@@ -1,2 +1,2 @@
 # Some test
-print('Hello World!')
+print(sum(len(item) for item in 'Hello World!'.split()))
